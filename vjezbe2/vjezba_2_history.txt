@@ -1,0 +1,100 @@
+    1  ls
+    2  pwd
+    3  ls -a
+    4  git init
+    5  ls -a
+    6  ls
+    7  cd .git
+    8  ls -la--color
+    9  ls -a --color
+   10  ~clear
+   11  clear
+   12  pwd
+   13  touch README.md
+   14  ls
+   15  rm README.md
+   16  echo 423432432
+   17  echo "Hello"
+   18  echo "Dodajem nešto2 > README.md
+   19  ls
+   20  open .
+   21  stop
+   22  clear
+   23  ~clear
+   24  pwd
+   25  /s
+   26  cd !
+   27  cd ~
+   28  ls
+   29  cd documents
+   30  ls
+   31  ls -la
+   32  git clone 
+   33  clear
+   34  pwd
+   35  ls
+   36  pwd
+   37  celar
+   38  clear
+   39  git add README.md
+   40  celar
+   41  clear
+   42  git status
+   43  celar
+   44  clear
+   45  git logž
+   46  git log
+   47  rm test
+   48  clear
+   49  cd ..
+   50  ls
+   51  pwd
+   52  mkdir novi_projekt
+   53  cd novi_projekt
+   54  ls
+   55  clear
+   56  ls
+   57  touch datoteka1.txt
+   58  git add datoteka1.txt
+   59  pwd
+   60  mkdir projekt.txt
+   61  y
+   62  clear
+   63  pwd
+   64  clea
+   65  clear
+   66  cd ~
+   67  ls
+   68  cd desktop
+   69  touch blabla.txt
+   70  ls
+   71  ls -a
+   72  ls -A
+   73  rm blabla.txt
+   74  ls
+   75  clear
+   76  mkdir
+   77  clear
+   78  pwd
+   79  clear
+   80  ls
+   81  cd
+   82  pwd
+   83  ls
+   84  cd ~
+   85  clear
+   86  pwd
+   87  ls
+   88  ls -a
+   89  clear
+   90  git clone https://github.com/DavidKalcic/os_vjezbe
+   91  cd os_vjezbe
+   92  mkdir vjezbe2
+   93  cd vjezbe2
+   94  echo "Vjezbe2" > README.md
+   95  git add .
+   96  git commit -m "Rijesen zadatak 1"
+   97  git config --global user.email "dkalcic@student.unipu.hr"
+   98  git commit -m "Rijesen zadatak 1"
+   99  git push origin main
+  100  history > vjezba_2_history.txt
